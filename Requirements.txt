@@ -1,0 +1,2 @@
+termcolor
+pip install termcolor
