@@ -1,7 +1,5 @@
 THE DRAGONSLAYER GAME
 
-Video DEMO: https://youtu.be/R4YMv_tARG8c
-
 Description: This program is a small text-based game that will let you descend in a dragon's cave and fight him! 
 This Python Program was created as a Final Project for the HarvardX CS50P: Introduction to Programming in Python 2022 course via edx.org. This code has been created by Marco Raffaele, EdX user: marco-raffaele, Github user: MR-kajin. Submission Period: August 2022.
 
